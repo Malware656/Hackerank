@@ -1,4 +1,7 @@
-# Hackerank
+# Hackerank Answer FOr restApi programs
+
+Team_goals.py
+
 Welcome to
 HackerRank Rest API (Intermediate) Skills Certification Test
 
@@ -18,3 +21,6 @@ returns data associated with matches in the year 2011, where team1 (the home tea
 Similarly, a GET request to
 https://jsonmock.hackerrank.com/api/football_matches?year=2011&team2=Barcelona&page=1
 returns data associated with matches in the year 2011 where team2 (the visiting team) was Barcelona, on the first page of the results.
+
+
+Team_goals_2.py
